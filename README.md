@@ -17,12 +17,12 @@ crud db
 
 ## Screenshot
 
-![Home](Isolated.png "/../screenshot/Home.jpg")
+![Home](Isolated.png "/screenshot/Home.jpg")
 
-![LoadList](Isolated.png "/../screenshot/LoadList.jpg")
+![LoadList](Isolated.png "/screenshot/LoadList.jpg")
 
-![DeleteItem](Isolated.png "/../screenshot/DeleteItem.jpg")
+![DeleteItem](Isolated.png "/screenshot/DeleteItem.jpg")
 
-![DeletedAnItem](Isolated.png "/../screenshot/DeletedAnItem.jpg")
+![DeletedAnItem](Isolated.png "/screenshot/DeletedAnItem.jpg")
 
-![DeleteAll](Isolated.png "/../screenshot/DeleteAll.jpg")
+![DeleteAll](Isolated.png "/screenshot/DeleteAll.jpg")
